@@ -1,18 +1,18 @@
 {
-  "name": "image-mapper-pulsar",
-  "main": "./lib/image-mapper-pulsar",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "image-mapper-pulsar:toggle"
-  },
-  "repository": "https://github.com/atom/image-mapper-pulsar",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-  }
+	"name": "image-mapper-pulsar",
+	"main": "./lib/image-mapper",
+	"version": "0.0.0",
+	"description": "A image coordinate mapper for Pulsar",
+	"keywords": [
+	],
+	"activationCommands": {
+		"atom-workspace": "image-mapper:map"
+	},
+	"repository": "https://github.com/aleyoscar/image-mapper-pulsar",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"dependencies": {
+	}
 }
