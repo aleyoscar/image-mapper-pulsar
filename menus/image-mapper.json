@@ -1,0 +1,26 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Image Mapper",
+				"command": "image-mapper:map"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "Image Mapper",
+					"submenu": [
+						{
+							"label": "Map",
+							"command": "image-mapper:map"
+						}
+					]
+				}
+			]
+		}
+	]
+}
