@@ -1,7 +1,7 @@
 {
 	"name": "image-mapper-pulsar",
 	"main": "./lib/image-mapper",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A image coordinate mapper for Pulsar",
 	"keywords": [],
 	"activationCommands": {
